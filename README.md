@@ -32,7 +32,7 @@ I ended-up using mostly the [Ai-Thinker Audio kit](https://docs.ai-thinker.com/e
 
 ![inside](https://user-images.githubusercontent.com/381306/220346351-a60a9cb2-3ce9-4278-b9b8-15323a14caf1.jpg)
 
-Currently only line in and line out are connected. The device is powered by a Lithium-ion battery.
+Currently only line in and line out are connected, as well as the foot switches. The device is powered by a Lithium-ion battery.
 
 ### Software
 If you want to read the code, [start here](https://github.com/castlebbs/audio-net/blob/main/main/main.c).
